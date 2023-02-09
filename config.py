@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "11319890")
 
 API_HASH = os.environ.get("API_HASH", "4965e574411647c42ffbd8b46040f0a5")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6056424899:AAHHVaeFgUHAn9bqIlEpGvXJIzV0hCRRu8o") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5728959020:AAEe5mDM_NUrJYzo323UFZMqMES_dddItRo") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Tamildubbedpublic") 
 
